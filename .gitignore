@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+lib
+vendor
+
+# Environment variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Compiled binary addons
+build/Release
+
+# Dependency files
+package-lock.json
+yarn.lock
